@@ -56,6 +56,7 @@ All reviews will be saved per product.  Specific styles will not be accounted fo
 - Run NPM run server to run express server locally
 - To view in the browser, go to localhost:4000 in your broswer of choice
 
-
+## Demo
+![Demo](demo.gif)
 
 
