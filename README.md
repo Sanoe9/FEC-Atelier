@@ -4,7 +4,7 @@
 
 
 ## Project Overview
-Our goal was to update an outdated client-facing retail web-portal that has been proven to be hurting sales numbers.   This proeject comprises a complete redesign of the retail portal designed to address this concern and modernize the site.  The following widgets will makeup our user interface which will allow customers to browser our retail catalog - this project will only contain the product detail page, not any other type of page for the site.
+Our goal was to update an outdated client-facing retail web-portal that has been proven to be hurting sales numbers.   This project comprises a complete redesign of the retail portal designed to address this concern and modernize the site.  The following widgets will makeup our user interface which will allow customers to browser our retail catalog - this project will only contain the product detail page, not any other type of page for the site.
 
 ### Table of Contents
 - [Description](#description)
